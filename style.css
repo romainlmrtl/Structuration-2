@@ -75,6 +75,7 @@ main{
 flex {
     display: flex;
     justify-content: space-around;
+    padding: 0px 10%;
 }
 
 #petite {
@@ -84,6 +85,7 @@ flex {
 
 .millieu {
     padding: 25px 40%;
+    padding-left: 80px;
 }
 
 p {
